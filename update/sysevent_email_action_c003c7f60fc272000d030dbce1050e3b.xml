@@ -15,8 +15,8 @@
         <digest_from/>
         <digest_html/>
         <digest_reply_to/>
-        <digest_separator_html/>
-        <digest_separator_text/>
+        <digest_separator_html><![CDATA[<br><hr><br>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
         <digest_subject/>
         <digest_template/>
         <digest_text/>
