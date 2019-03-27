@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="NeetIt2" max_length="40" name="x_58872_needit_neetit2" type="collection"/>
+</database>
